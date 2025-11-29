@@ -1,0 +1,8 @@
+This my first simple project
+
+Pratice_mode.py ( File I just Pratice this project. How can I implement (create) different way in this project.)
+
+and also if every one see my code so tell me in this project what I fix and how to improve and
+which I will be add in this project.
+
+Please Every (Comment_Me...) so I can Fix and improve myself...
